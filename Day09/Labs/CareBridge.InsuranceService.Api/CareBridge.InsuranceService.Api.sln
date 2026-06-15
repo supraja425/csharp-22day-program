@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareBridge.InsuranceService.Api", "CareBridge.InsuranceService.Api\CareBridge.InsuranceService.Api.csproj", "{505D6BBF-B43F-4441-8CB8-CB026A195919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareBridge.Api", "CareBridge.Api\CareBridge.Api.csproj", "{BEE0E949-AC1F-4BCC-9E3C-306735D1F844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{505D6BBF-B43F-4441-8CB8-CB026A195919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505D6BBF-B43F-4441-8CB8-CB026A195919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505D6BBF-B43F-4441-8CB8-CB026A195919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505D6BBF-B43F-4441-8CB8-CB026A195919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEE0E949-AC1F-4BCC-9E3C-306735D1F844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE0E949-AC1F-4BCC-9E3C-306735D1F844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE0E949-AC1F-4BCC-9E3C-306735D1F844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE0E949-AC1F-4BCC-9E3C-306735D1F844}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB2F118B-5144-438F-AF92-1025D44B6B0A}
+	EndGlobalSection
+EndGlobal
